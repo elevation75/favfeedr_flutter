@@ -1,16 +1,14 @@
 # FavFeedr - A YouTube RSS Feed Reader
 
-![photo_2025-12-08_16-42-19]
+
 <img src="https://github.com/user-attachments/assets/e1f980f2-f8fc-4f04-bbc9-ca571eca32c0" alt="About App" style="width:50%; height:auto;">
-![photo_2025-12-08_16-42-28]
+
 <img src="https://github.com/user-attachments/assets/3eb7d5d5-e360-40fc-90ab-bed4b896f4af" alt="Main Light mode" style="width:50%; height:auto;">
-![photo_2025-12-08_16-42-24]
+
 <img src="https://github.com/user-attachments/assets/78f4b3e5-352a-4e71-b3b8-eb2f0f186bd7" alt="Main dark mode" style="width:50%; height:auto;">
 
-![photo_2025-12-08_16-42-31]
 <img src="https://github.com/user-attachments/assets/6323d6f2-1bac-44e4-86ea-0f70a77dd088" alt="screen1" style="width:50%; height:auto;">
 
-![photo_2025-12-08_16-42-34]
 <img src="https://github.com/user-attachments/assets/c508149a-c3a7-445d-9508-d661f906d289" alt="main app window" style="width:50%; height:auto;">
 
 FavFeedr is a modern, cross-platform desktop application built with Flutter, designed to help you stay updated with the latest videos from your favorite YouTube channels. It fetches video updates directly from YouTube's RSS feeds, providing a clean and efficient way to consume content.
