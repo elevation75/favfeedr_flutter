@@ -1,7 +1,5 @@
 # FavFeedr - A YouTube RSS Feed Reader
 
-![FavFeedr Screenshot](favfeedr_flutter/assets/logo.png) 
-
 ![photo_2025-12-08_16-42-19](https://github.com/user-attachments/assets/e1f980f2-f8fc-4f04-bbc9-ca571eca32c0)
 ![photo_2025-12-08_16-42-28](https://github.com/user-attachments/assets/3eb7d5d5-e360-40fc-90ab-bed4b896f4af)
 ![photo_2025-12-08_16-42-24](https://github.com/user-attachments/assets/78f4b3e5-352a-4e71-b3b8-eb2f0f186bd7)
