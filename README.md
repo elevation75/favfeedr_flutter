@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FavFeedr - A YouTube RSS Feed Watcher
 
 
@@ -10,6 +11,11 @@
 <img src="https://github.com/user-attachments/assets/6323d6f2-1bac-44e4-86ea-0f70a77dd088" alt="Settings window" style="width:30%; height:auto;">
 
 <img src="https://github.com/user-attachments/assets/c508149a-c3a7-445d-9508-d661f906d289" alt="main app window" style="width:30%; height:auto;">
+=======
+# FavFeedr - A YouTube RSS Feed Reader
+
+![FavFeedr Screenshot](favfeedr_flutter/assets/logo.png) <!-- Placeholder, actual screenshot would go here -->
+>>>>>>> a4faff7 (FavFeedr v1.0.0 is born)
 
 FavFeedr is a modern, cross-platform desktop application built with Flutter, designed to help you stay updated with the latest videos from your favorite YouTube channels. It fetches video updates directly from YouTube's RSS feeds, providing a clean and efficient way to consume content.
 
@@ -99,4 +105,8 @@ To get FavFeedr running on your Android device:
     -   Tap the **hamburger icon** in the top-left corner of the app bar to open the navigation drawer. From there, you can access "About" and "Settings" options.
 
 ---
+<<<<<<< HEAD
 **Note:** This `README.md` assumes the user has Flutter SDK installed and configured.
+=======
+**Note:** This `README.md` assumes the user has Flutter SDK installed and configured.
+>>>>>>> a4faff7 (FavFeedr v1.0.0 is born)
