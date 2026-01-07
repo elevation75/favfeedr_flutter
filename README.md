@@ -1,4 +1,4 @@
-# FavFeedr - A YouTube RSS Feed Reader
+# FavFeedr - A YouTube RSS Feed Watcher
 
 
 <img src="https://github.com/user-attachments/assets/e1f980f2-f8fc-4f04-bbc9-ca571eca32c0" alt="About App" style="width:30%; height:auto;">
